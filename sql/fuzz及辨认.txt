@@ -1,0 +1,13 @@
+– Hibernate: .. and 1bi = 1bd and ...
+
+    
+
+– EclipseLink: ... and FUNCTION('1=1 and','2')='2' and ...
+
+    
+
+– TopLink: ... and SQL('1=1') and ...
+
+    
+
+– OpenJPA: ... and "1"='1' and ...

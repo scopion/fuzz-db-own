@@ -1,0 +1,12 @@
+9%3b1
+${1000-900}
+${pageContext}
+
+EL表达式
+
+and 1bi = 1bd
+and FUNCTION('1=1 and','2')='2'
+and SQL('1=1')
+and "1"='1'
+
+ORM
