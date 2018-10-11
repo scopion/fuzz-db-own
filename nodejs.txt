@@ -1,0 +1,17 @@
+process.arch
+process.argv
+process.argv0
+process.channel
+process.cwd()
+process.geteuid()
+process.getegid()
+process.getgroups()
+process.pid
+process.platform
+process.version
+
+使用nodejs进行数据处理的时候用上面
+
+express+nodejs 
+/static/../../x/../../etc/passwd
+

